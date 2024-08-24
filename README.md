@@ -28,9 +28,6 @@ Le frontend est développé avec React et permet aux utilisateurs d'interagir av
 - **Plans de repas** : Les utilisateurs peuvent créer des plans de repas pour organiser leurs recettes préférées.
 - **Authentification** : Les utilisateurs peuvent s'inscrire, se connecter et gérer leur profil.
 
-## Démarrage
+## Déploiement
 
-Pour démarrer le projet, assurez-vous d'avoir Node.js et npm installés. Ensuite, suivez ces étapes pour chaque partie du projet (backend et frontend) :
-
-1. Installez les dépendances avec `npm install`.
-2. Démarrez le serveur de développement avec `npm start`.
+Accédez à l'application déployée à l'URL suivante : [Site de Recette](https://foura5-projet-synthese-jadtony-1.onrender.com/)
